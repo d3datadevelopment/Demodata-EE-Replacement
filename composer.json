@@ -2,7 +2,7 @@
   "name": "d3/oxideshop-demodata-ee-replacement",
   "description": "Empty replacement for the EE demo data when not in use",
   "require": {
-    "oxid-esales/oxideshop-metapackage-ee": "^6.0"
+    "oxid-esales/oxideshop-metapackage-ee": "^6.0",
     "d3/oxideshop-demodata-pe-replacement": "*"
   },
   "replace": {
